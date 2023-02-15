@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mot-mystere/static/css/main.86225f7f.css",
+    "main.js": "/mot-mystere/static/js/main.003df00d.js",
+    "static/js/787.c74d0e55.chunk.js": "/mot-mystere/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/mot-mystere/index.html",
+    "main.86225f7f.css.map": "/mot-mystere/static/css/main.86225f7f.css.map",
+    "main.003df00d.js.map": "/mot-mystere/static/js/main.003df00d.js.map",
+    "787.c74d0e55.chunk.js.map": "/mot-mystere/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86225f7f.css",
+    "static/js/main.003df00d.js"
+  ]
+}
